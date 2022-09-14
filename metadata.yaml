@@ -1,0 +1,4 @@
+author: MLOpsStudyGroup
+model_type: scikit-learn_0.23
+project_name: mlcode
+project_version: v0.1
